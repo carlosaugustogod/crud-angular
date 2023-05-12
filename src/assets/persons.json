@@ -3,30 +3,33 @@
   {
     "id": "1000",
     "name": "Carlos",
-    "born": "26/02/2004",
+    "born": "2004-02-26",
     "gender": "M",
     "height": 1.60,
     "weight": 65.0 ,
     "note": "Esse é bão",
-    "phone": "(81) 990054-124",
-
+    "phone": "(81) 990054-124"
+  },
+{
     "id": "1001",
     "name": "Caroline",
-    "born": "25/08/1996",
+    "born": "1996-08-25",
     "gender": "F",
     "height": 1.73,
     "weight": 49.0 ,
     "note": "Essa é legal",
-    "phone": "(81) 992074-156",
-
+    "phone": "(81) 992074-156"
+},
+{
     "id": "1001",
     "name": "Arthur",
-    "born": "01/12/1997",
+    "born": "2004-02-26",
     "gender": "M",
     "height": 1.70,
     "weight": 85.0 ,
     "note": "Essa é doido",
     "phone": "(81) 995574-115"
+    
   }
 ]
 }
